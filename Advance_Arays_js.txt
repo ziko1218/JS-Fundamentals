@@ -1,0 +1,4 @@
+// train
+// Zad 1
+
+function
